@@ -4,20 +4,6 @@ Financial News Sentiment Analysis System
 A modular Python-based system for analyzing sentiment in financial news headlines/articles, designed for exploratory market sentiment research and risk analysis.
 Authors
 
-Table of Contents
-
-Overview
-Features
-System Architecture
-Modules
-Batch Analysis
-Entity-Based Analysis
-Data and Preprocessing
-Usage & Arguments
-Output & Visualization
-Performance
-Conclusion & Future Work
-Overview
 
 This project provides a sentiment analysis platform for financial news. It analyzes single articles or batches of headlines, identifies entities, and measures sentiment directed towards those entities. The system is adaptable, efficient, and lightweight, offering modular tools for both overall and entity-based sentiment assessment.
 Features

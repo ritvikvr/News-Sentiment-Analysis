@@ -1,0 +1,2 @@
+filename,vader_sentiment,vader_compound,textblob_sentiment,textblob_polarity,transformer_sentiment,transformer_confidence,text_length,word_count
+sample_news.txt,negative,-0.872,neutral,0.017506775067750675,negative,0.9943565726280212,10503,1081
